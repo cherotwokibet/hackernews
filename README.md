@@ -1,8 +1,9 @@
 
 #  HACKER NEWS
-Hacker News is a frontend web app to get news using real-time full-text search for the HackerNews community site. 
-Items are updated in real-time using official HackerNews API. Data is indexed on 3 different servers for high availability, hosted in Beauharnois, Canada.
+Hacker News is a frontend web app to get posts based on real-time full-text search for the HackerNews community site. 
+Items are updated in real-time using official [HackerNews API] (https://github.com/HackerNews/API). 
 Its API is built on top of Algolia Search's API. It enables developers to access HN data programmatically using a REST API.
+I built this app for leanring how to consume REST API.
 
 ## Live Site
 View page https://news4hackernews.netlify.app/
